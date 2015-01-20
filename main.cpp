@@ -10,7 +10,8 @@ int main(int argc, char *argv[])
 {
 
     int a = 5;
-    int b = 2;
+
+    int b = 1;
 
     std::cout << "Adding " << a << " to " << b << " = " << addTwoNumbers(a,b) << std::endl;
 
