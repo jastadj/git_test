@@ -9,11 +9,9 @@ int addTwoNumbers(int a, int b)
 int main(int argc, char *argv[])
 {
 
-    int a = 5;
+    int a = 1;
 
     int b = 1;
-
-    std::cout << "Adding " << a << " to " << b << " = " << addTwoNumbers(a,b) << std::endl;
 
     return 0;
 }
