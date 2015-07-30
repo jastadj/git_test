@@ -9,7 +9,9 @@ int addTwoNumbers(int a, int b)
 int main(int argc, char *argv[])
 {
 
-    int a = 5;
+    int a = 7;
+	
+	int anewvar = 0;
 
     int b = 1;
 
